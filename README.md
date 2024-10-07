@@ -59,13 +59,17 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
+
 Y predicted Value: 
+
 ![image](https://github.com/user-attachments/assets/9f67fc58-1a5d-478a-afeb-e76ce50d2d9a)
 
 Mean Squared Error: 
+
 ![image](https://github.com/user-attachments/assets/60d0c468-f3d9-4aa2-a0fc-aa8068429037)
 
 r2 Score:
+
 ![image](https://github.com/user-attachments/assets/8ef3be8f-94dd-4df5-a72b-f2b7e0b4c05c)
 
 ## Result:
